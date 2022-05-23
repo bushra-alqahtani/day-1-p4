@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>welcome</title>
+  
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+
+
+</head>
+<body>
+  
+  
+  
+<h1>programmer name</h1>
+   <img src="https://png.pngtree.com/png-clipart/20190903/original/pngtree-business-manager-information-on-business-card-png-image_4424023.jpg" width="100"> 
+  <br><img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="30"> <a href="">my github</a>
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" width="30"> <a href="">my twitter </a>
+  <img src="https://cdn-icons.flaticon.com/png/512/3128/premium/3128219.png?token=exp=1653311617~hmac=5f83191282b724774368975f2e540c14" width="30"> <a href="">my linked in</a>
+  
+  <h3> technologies </h3>
+  <table style="width:100%">
+  <tr>
+    <th>front-end</th>
+    <th>python</th> 
+    <th>js</th>
+    <th>DB</th> 
+    <th>concepts</th>
+  </tr>
+  <tr>
+    <td>html</td>
+    <td>django</td> 
+    <td>express</td>
+     <td>mysql</td> 
+    <td>ajax</td>
+  </tr>
+  <tr>
+    <td>css3</td> 
+    <td>Flask</td> 
+    <td>Mangoose</td>
+    <td>Mangodb</td> 
+    <td>oop</td>
+  </tr>
+    <tr>
+    <td>bootstrap</td> 
+    <td>unittest</td> 
+    <td>react</td>
+    <td></td>
+    <td>rest</td>
+    
+  </tr>
+</table>
+  <h3> sicial snakes </h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="60"><br>
+  <p> Social Media App made in Python -<a href="">code</a>I<a href="">deployed</a></p>
+
+
+  <br>
+  <div>
+   Name : <input type="text">
+   Email : <input type="text"><br>
+   message:<br><textarea></textarea><br>
+      
+  <br>
+    
+<input type="submit" value="send message">
+    </div>
+</body>
+</html>
